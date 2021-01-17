@@ -1,0 +1,10 @@
+C:\Users\duygu\source\repos\Turkcell1\introForm\ZarAtmaBahisli\bin\Debug\ZarAtmaBahisli.exe.config
+C:\Users\duygu\source\repos\Turkcell1\introForm\ZarAtmaBahisli\bin\Debug\ZarAtmaBahisli.exe
+C:\Users\duygu\source\repos\Turkcell1\introForm\ZarAtmaBahisli\bin\Debug\ZarAtmaBahisli.pdb
+C:\Users\duygu\source\repos\Turkcell1\introForm\ZarAtmaBahisli\obj\Debug\ZarAtmaBahisli.csprojAssemblyReference.cache
+C:\Users\duygu\source\repos\Turkcell1\introForm\ZarAtmaBahisli\obj\Debug\ZarAtmaBahisli.Form1.resources
+C:\Users\duygu\source\repos\Turkcell1\introForm\ZarAtmaBahisli\obj\Debug\ZarAtmaBahisli.Properties.Resources.resources
+C:\Users\duygu\source\repos\Turkcell1\introForm\ZarAtmaBahisli\obj\Debug\ZarAtmaBahisli.csproj.GenerateResource.cache
+C:\Users\duygu\source\repos\Turkcell1\introForm\ZarAtmaBahisli\obj\Debug\ZarAtmaBahisli.csproj.CoreCompileInputs.cache
+C:\Users\duygu\source\repos\Turkcell1\introForm\ZarAtmaBahisli\obj\Debug\ZarAtmaBahisli.exe
+C:\Users\duygu\source\repos\Turkcell1\introForm\ZarAtmaBahisli\obj\Debug\ZarAtmaBahisli.pdb
